@@ -11,14 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
+  <a href="https://github.com/Ricardo-Castro-gastelum/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=rRicardo-Castro-Gastelum.Ricardo-Castro-Gastelum"></a>
 </p>
 
 ---
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+- 👨‍💻 como ingeniero de software estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
+- 💬 Contactame para conocer mi experiencia en el desarrollo Web, .Net, Backend y Frontend
 
 ## 🛠 &nbsp;Tech Stack
 
