@@ -19,7 +19,7 @@
 - 👨‍💻 como ingeniero de software estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
 - 💬 Contactame para conocer mi experiencia en el desarrollo Web, .Net, Backend y Frontend
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologías
 
 #### 🔧 Languages
 
