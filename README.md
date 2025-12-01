@@ -97,7 +97,7 @@
 
 ---
 
-### 🔗 &nbsp;Contacta me
+### 🔗 &nbsp;Contactame
 
 <div align="center">
 <a href="mailto:bloorecordsmx@gmail.com">
