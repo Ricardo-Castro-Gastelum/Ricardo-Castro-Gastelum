@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="[https://github.com/Ricardo-Castro-Gastelum/Ricardo-Castro-Gastelum/issues/1#issue-4077620175](https://private-user-images.githubusercontent.com/153753725/563667814-cbe3447c-7afc-40d2-904a-e228e22f7c9d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM1NTE1MzksIm5iZiI6MTc3MzU1MTIzOSwicGF0aCI6Ii8xNTM3NTM3MjUvNTYzNjY3ODE0LWNiZTM0NDdjLTdhZmMtNDBkMi05MDRhLWUyMjhlMjJmN2M5ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxNVQwNTA3MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZTIyYjRhNDY4MmQzNGNkYzdjMjljZDcxN2NjZDJhM2ZhMmZhYTk3ZTFiMmFjNjBkMmYwNDFmOTA4MGYyNzA2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Fn6KV3tTwCZx58wqXvl2fquKx08ln_ryEXW1PQdjCNs)" width="80" style="border-radius:50%;" />
+      <img src=(https://private-user-images.githubusercontent.com/153753725/563667814-cbe3447c-7afc-40d2-904a-e228e22f7c9d.png?) width="80" style="border-radius:50%;" />
     </td>
     <td>
       <h3>Hola, soy Ricardo Castro Gastelum</h3>
