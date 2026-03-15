@@ -2,9 +2,16 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h3 align="center">
-  Hola, soy Ricardo Castro Gastelum
-</h3>
+<table align="center">
+  <tr>
+    <td>
+      <img src="[https://tu-imagen.com/foto.png](https://github.com/Ricardo-Castro-Gastelum/Ricardo-Castro-Gastelum/issues/1#issue-4077620175)" width="80" style="border-radius:50%;" />
+    </td>
+    <td>
+      <h3>Hola, soy Ricardo Castro Gastelum</h3>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20de%20Software;Frontend%20Developer;Apasionado%20por%20.NET%20y%20CSharp;Siempre%20aprendiendo%20cosas%20nuevas;Bienvenido%20a%20mi%20perfil%20%F0%9F%91%80;Si%20necesitas%20ayuda%2C%20escribeme!&font=Fira%20Code&center=true&width=440&height=45"></a>
