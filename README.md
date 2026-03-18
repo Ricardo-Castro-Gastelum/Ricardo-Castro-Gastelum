@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Ricardo-Castro-Gastelum/Ricardo-Castro-Gastelum/blob/main/New-Logo-WhiteLine.png?raw=true" width="100">
+  <img src="https://github.com/Ricardo-Castro-Gastelum/Ricardo-Castro-Gastelum/blob/main/Logo-GSC.png?raw=true" width="100">
   <h3>Hola, soy Ricardo Castro Gastelum</h3>
 </div>
 
