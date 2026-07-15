@@ -38,19 +38,14 @@
 #### 🖥️ Frameworks &amp; Librerías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,dotnet,flutter,bootstrap,vite,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,dotnet,flutter,bootstrap,vite,tailwind,jquery,nodejs&theme=dark" />
 </p>
 
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%2340853D.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Fetch API](https://img.shields.io/badge/Fetch%20API-000000?style=for-the-badge)
 ![Newtonsoft Json](https://img.shields.io/badge/Newtonsoft%20Json-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Guna UI2](https://img.shields.io/badge/Guna%20UI2-512BD4?style=for-the-badge&logo=windows&logoColor=white)
-
-#### ⚙️ Entornos de ejecución
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### 🔧 Herramientas
 
