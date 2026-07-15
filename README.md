@@ -1,82 +1,95 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Ricardo%20Castro%20Gastelum&fontColor=fff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20%26%20.NET%20Developer&descAlignY=58&descSize=18" />
 </div>
 
 <div align="center">
   <img src="https://github.com/Ricardo-Castro-Gastelum/Ricardo-Castro-Gastelum/blob/main/Logo-GSC.png?raw=true" width="100">
-  <h3>Hola, soy Ricardo Castro Gastelum</h3>
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20de%20Software;Frontend%20Developer;Apasionado%20por%20.NET%20y%20CSharp;Siempre%20aprendiendo%20cosas%20nuevas;Bienvenido%20a%20mi%20perfil%20%F0%9F%91%80;Si%20necesitas%20ayuda%2C%20escribeme!&font=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=440&lines=Desarrollador+de+Software;Frontend+Developer;Apasionado+por+.NET+y+C%23;Siempre+aprendiendo+cosas+nuevas;Bienvenido+a+mi+perfil+%F0%9F%91%80;Si+necesitas+ayuda%2C+escr%C3%ADbeme!" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ricardo-Castro-gastelum/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=rRicardo-Castro-Gastelum.Ricardo-Castro-Gastelum"></a>
+  <a href="https://github.com/Ricardo-Castro-gastelum/"><img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=Ricardo-Castro-Gastelum.Ricardo-Castro-Gastelum&color=6d28d9&style=for-the-badge"></a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
+</p>
 
-- 👨‍💻 como ingeniero de software estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
-- 💬 Contactame para conocer mi experiencia en el desarrollo Web, .Net, Backend y Frontend
+## 👋 Sobre mí
+
+- 👨‍💻 Como ingeniero de software estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
+- 🌱 Actualmente profundizando en **React**, **.NET** y desarrollo de aplicaciones de escritorio.
+- 💬 Contáctame para conocer mi experiencia en desarrollo Web, .NET, Backend y Frontend.
+- ⚡ Fun fact: también le entro al desarrollo de videojuegos y producción musical en mis ratos libres.
+
+<br>
 
 ## 🛠 &nbsp;Tecnologías
 
 #### 🔧 Lenguajes
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2344779A.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,csharp,cpp,python,mysql&theme=dark" />
+</p>
 
+#### 🖥️ Frameworks &amp; Librerías
 
-#### 🖥️ Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,dotnet,flutter,bootstrap,vite,tailwind&theme=dark" />
+</p>
 
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%2340853D.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### 📚 Librerias
-
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Fetch API](https://img.shields.io/badge/Fetch%20API-000000?style=for-the-badge)
 ![Newtonsoft Json](https://img.shields.io/badge/Newtonsoft%20Json-000000?style=for-the-badge&logo=json&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white)
 ![Guna UI2](https://img.shields.io/badge/Guna%20UI2-512BD4?style=for-the-badge&logo=windows&logoColor=white)
+
+#### ⚙️ Entornos de ejecución
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### 🔧 Herramientas
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=yello)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,firebase,postman,vscode,visualstudio,idea,androidstudio,linux,ubuntu,figma,xd&theme=dark" />
+</p>
 
+<br>
 
- 
- 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
+</p>
 
----
+## 📊 &nbsp;Estadísticas de GitHub
 
-### 🔗 &nbsp;Contactame
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Castro-Gastelum&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Castro-Gastelum&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricardo-Castro-Gastelum&theme=radical&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ricardo-Castro-Gastelum&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardo-Castro-Gastelum&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
+</p>
+
+### 🔗 &nbsp;Contáctame
 
 <div align="center">
 <a href="mailto:bloorecordsmx@gmail.com">
@@ -92,5 +105,8 @@
 </a>
 </div>
 
+<div align="center">
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" />
+</div>
 
 
