@@ -32,7 +32,7 @@
 #### 🔧 Lenguajes
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,csharp,python,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cs,cpp,python,mysql&theme=dark" />
 </p>
 
 #### 🖥️ Frameworks &amp; Librerías
@@ -67,8 +67,8 @@
 ## 📊 &nbsp;Estadísticas de GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Castro-Gastelum&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Castro-Gastelum&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Castro-Gastelum&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Castro-Gastelum&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </div>
 
 <div align="center">
@@ -80,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardo-Castro-Gastelum&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardo-Castro-Gastelum&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&custom_title=Ricardo%20Castro%20Gastelum%20Activity%20Graph" width="100%"/>
 </div>
 
 <br>
@@ -108,4 +108,3 @@
 <div align="center">
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=footer" />
 </div>
-
