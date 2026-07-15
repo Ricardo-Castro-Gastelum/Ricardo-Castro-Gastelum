@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Ricardo%20Castro%20Gastelum&fontColor=fff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20%26%20.NET%20Developer&descAlignY=58&descSize=18" />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&reversal=true&section=header" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ricardo-Castro-gastelum/"><img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=Ricardo-Castro-Gastelum.Ricardo-Castro-Gastelum&color=6d28d9&style=for-the-badge"></a>
+  <a href="https://github.com/Ricardo-Castro-gastelum/"><img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=rRicardo-Castro-Gastelum.Ricardo-Castro-Gastelum"></a>
 </p>
 
 <p align="center">
@@ -106,7 +106,6 @@
 </div>
 
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=footer" />
 </div>
-
 
