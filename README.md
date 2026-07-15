@@ -32,7 +32,7 @@
 #### 🔧 Lenguajes
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,csharp,cpp,python,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,csharp,python,mysql&theme=dark" />
 </p>
 
 #### 🖥️ Frameworks &amp; Librerías
