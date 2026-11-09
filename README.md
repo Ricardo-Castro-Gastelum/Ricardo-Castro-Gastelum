@@ -23,7 +23,7 @@
     <tr>
       <td width="62%">
         <p>Estudiante de Ingenieria de Software.</p>
-        <p><strong>Focus:</strong> HTML · Rust · JavaScript</p>
+        <p><strong>Focus:</strong>Full-Stack Development · Rust · Python · React Native · C# · Mobile Development · Windows Forms</p>
         <p><sub>Designed to make the work, momentum, and next conversation easy to find.</sub></p>
       </td>
       <td width="38%">
