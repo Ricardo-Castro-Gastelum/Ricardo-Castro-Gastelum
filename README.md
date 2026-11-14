@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&reversal=true&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&reversal=true&section=header&text=Ricardo%20Castro%20Gastelum&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Frontend%20%C2%B7%20.NET&descSize=18&descAlignY=58&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -7,15 +7,15 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=440&lines=Desarrollador+de+Software;Frontend+Developer;Apasionado+por+.NET+y+C%23;Siempre+aprendiendo+cosas+nuevas;Bienvenido+a+mi+perfil+%F0%9F%91%80;Si+necesitas+ayuda%2C+escr%C3%ADbeme!" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=520&height=50&lines=Desarrollador+de+Software;Frontend+Developer;Apasionado+por+.NET+y+C%23;Siempre+aprendiendo+cosas+nuevas;Bienvenido+a+mi+perfil+%F0%9F%91%80;Si+necesitas+ayuda%2C+escr%C3%ADbeme!" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ricardo-Castro-gastelum/"><img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=rRicardo-Castro-Gastelum.Ricardo-Castro-Gastelum"></a>
+  <a href="https://github.com/Ricardo-Castro-Gastelum/"><img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=Ricardo-Castro-Gastelum.Ricardo-Castro-Gastelum&style=for-the-badge&color=A78BFA&labelColor=0d1117"></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header&animation=twinkling" width="100%" />
 </p>
 
 ## 👋 Sobre mí
@@ -56,7 +56,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header&animation=twinkling" width="100%" />
 </p>
 
 ## 📊 &nbsp;Estadísticas de GitHub
@@ -67,21 +67,21 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricardo-Castro-Gastelum&theme=radical&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricardo-Castro-Gastelum&theme=radical&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ricardo-Castro-Gastelum&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ricardo-Castro-Gastelum&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardo-Castro-Gastelum&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&custom_title=Ricardo%20Castro%20Gastelum%20Activity%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardo-Castro-Gastelum&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA&custom_title=Ricardo%20Castro%20Gastelum%20Activity%20Graph" width="100%"/>
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header&animation=twinkling" width="100%" />
 </p>
 
 ### 🔗 &nbsp;Contáctame
@@ -101,5 +101,5 @@
 </div>
 
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=footer" />
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true&section=footer&animation=twinkling" />
 </div>
