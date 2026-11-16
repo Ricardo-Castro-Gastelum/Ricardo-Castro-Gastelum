@@ -34,7 +34,7 @@ Estudiante de Ingenieria de Software.
 - **[BlooCava](https://github.com/Ricardo-Castro-Gastelum/BlooCava)** — Featured public work · ⭐ 4
 - **[BlooFetch](https://github.com/Ricardo-Castro-Gastelum/BlooFetch)** — A beautiful terminal decoration with clock, system stats, and Spotify · ⭐ 3
 - **[BlooRepo](https://github.com/Ricardo-Castro-Gastelum/BlooRepo)** — Visual git timeline for the terminal · ⭐ 4
-- **[HyprMap](https://github.com/Ricardo-Castro-Gastelum/HyprMap)** — A workspace minimap for Hyprland: floating overlay with real window geometry and app icons, for Omarchy and plain Hyprland + Quickshell. · ⭐ 2
+- **[Papiro](https://github.com/Ricardo-Castro-Gastelum/papiro)** — Minimalist Markdown editor and reader for the terminal, written in Rust · ⭐ 2
 
 ## Platform toolkit
 
