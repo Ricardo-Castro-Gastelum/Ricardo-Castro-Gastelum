@@ -31,32 +31,22 @@ Estudiante de Ingenieria de Software.
 
 ## Infrastructure shipped
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/Ricardo-Castro-Gastelum/BlooCava">BlooCava</a></h3>
-      <p>CLI en Rust para configurar los colores del visualizador de audio Cava (sólido y gradientes).</p>
-      <p><code>Rust</code> · ⭐ 4</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🖥️ <a href="https://github.com/Ricardo-Castro-Gastelum/BlooFetch">BlooFetch</a></h3>
-      <p>Decoración de terminal con reloj, stats del sistema y Spotify.</p>
-      <p><code>Terminal</code> · ⭐ 3</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌳 <a href="https://github.com/Ricardo-Castro-Gastelum/BlooRepo">BlooRepo</a></h3>
-      <p>Línea de tiempo visual de git para la terminal.</p>
-      <p><code>Terminal</code> · ⭐ 4</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📜 <a href="https://github.com/Ricardo-Castro-Gastelum/papiro">Papiro</a></h3>
-      <p>Editor y lector de Markdown minimalista para la terminal, hecho en Rust.</p>
-      <p><code>Rust</code> · ⭐ 2</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Ricardo-Castro-Gastelum/BlooCava">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-Castro-Gastelum&repo=BlooCava&theme=github_dark&hide_border=true" alt="BlooCava" />
+  </a>
+  <a href="https://github.com/Ricardo-Castro-Gastelum/BlooFetch">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-Castro-Gastelum&repo=BlooFetch&theme=github_dark&hide_border=true" alt="BlooFetch" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Ricardo-Castro-Gastelum/BlooRepo">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-Castro-Gastelum&repo=BlooRepo&theme=github_dark&hide_border=true" alt="BlooRepo" />
+  </a>
+  <a href="https://github.com/Ricardo-Castro-Gastelum/papiro">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-Castro-Gastelum&repo=papiro&theme=github_dark&hide_border=true" alt="Papiro" />
+  </a>
+</p>
 
 ## Keep it moving
 
