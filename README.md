@@ -11,7 +11,7 @@
 <pre><code>ROLE        = Frontend or full-stack engineer
 LOCATION    = Mexico
 PUBLIC_REPOS = 7
-COMMUNITY   = 9 followers</code></pre>
+COMMUNITY   = 10 followers</code></pre>
 
 Estudiante de Ingenieria de Software.
 
